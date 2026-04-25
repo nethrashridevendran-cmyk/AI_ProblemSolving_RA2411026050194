@@ -19,33 +19,35 @@ A simple regression-based system that predicts student performance based on stud
 ## ▶️ Execution Steps
 
 ### Insurance System
-1. Navigate to insurance_system folder
-2. Run: python main.py
-3. Enter required inputs
-4. View decision
+1. Navigate to insurance_system folder  
+2. Run: python main.py  
+3. Enter required inputs  
+4. View decision  
 
 ### Student Predictor
-1. Navigate to student_predictor folder
-2. Run: python main.py
-3. Enter study hours and attendance
-4. View predicted score
+1. Navigate to student_predictor folder  
+2. Run: python main.py  
+3. Enter study hours and attendance  
+4. View predicted score  
 
 ---
 
 ## 📊 Sample Output
 
 ### Insurance System
-Claim Approved / Claim Rejected
+Claim Approved / Claim Rejected  
 
 ### Student Predictor
 Predicted Score: 75  
-Result: Pass
+Result: Pass  
 
 ---
 
-## 🌐 Interactive Application
-This project also includes an interactive interface using Streamlit.
+## 🌐 Interactive Website
+https://aiproblemsolvingra2411026050194-jbwzmvzzrscutdutzm9yyk.streamlit.app/
 
 ---
 
 ## 📁 Project Structure
+
+
